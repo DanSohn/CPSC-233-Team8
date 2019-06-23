@@ -1,5 +1,5 @@
-# CPSC-233-Team8
-Team 8 of CPSC 233 and our code repository for projects and team assignments
+# Trom Game
+Team 8 of CPSC 233 and our code repository for our project
 
 Packages to use
     javax.swing.JFrame
@@ -8,7 +8,3 @@ Packages to use
     javax.swing.Graphics2D
     java.awt.event (for KeyListener)
 
-
-Handy Tutorials
-    How to write a KeyListener http://docs.oracle.com/javase/tutorial/uiswing/events/keylistener.html
-    Great game making tutorial http://zetcode.com/tutorials/javagamestutorial/
